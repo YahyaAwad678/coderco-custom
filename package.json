@@ -19,6 +19,6 @@
   },
   "homepage": "https://github.com/YahyaAwad678/coderco-custom#readme",
   "dependencies": {
-    "@actions/core": "^3.0.0"
+    "@actions/core": "^1.11.1"
   }
 }
